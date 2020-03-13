@@ -10,7 +10,7 @@
 - 租赁域名并绑定DNS
 - 使用 WordPress 建站
   - [建站教程](https://wordpress.org/)（需要代理上网）
-  - [科学上网 ShadowSocks](https://github.com/zhaoweih/Shadowsocks-Tutorialsha)
+  - [科学上网 ShadowSocks](https://github.com/zhaoweih/Shadowsocks-Tutorial)
 
 **托管在 GitHub 上**
 
