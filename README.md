@@ -3,7 +3,7 @@
 Display Yourself 从个人简历（CV）、目的陈述（PS）、个人学术网站、个人历史陈述（PHS）四个方面来阐述，如何在**申请暑研、套磁和网申系统**中，更好的展示你的学术水平、个人背景、科研能力和优秀品质。
 
 ## Curriculum Vitae ##
-CV 是对学术生涯的高度概括，其目的在于：
+CV 是对一个学者学术生涯的高度概括，其目的在于：
 
 - 申请者研究的课题**是否匹配**
 - 申请者的研究过程是否凸显申请者的研究实力和水准
@@ -57,11 +57,20 @@ CV 和 PS 的修改甚至可以由教授帮忙。
 
 ## Statement of Purpose ##
 
+官方对于 Statement of Purpose 是这样描述的：
+
 Applicants for our graduate programs are selected using a holistic evaluation system. This essay will assist both the admissions committee and fellowship review committees to  evaluate your preparation for the proposed field of study. In your statement of purpose, please describe your aptitude and motivation for graduate study in your area of specialization.
+
+热门的学校和专业，仅来自中国的申请就有可能近千份，所以录取委员会的教授没有时间仔细去看所有的 PS/Resume 。基本是快速扫描一下，留下比较强的一小部分人来考虑是否录取。一封
+
+## 反复突出自己的长板 ##
+
+> 一封好的 PS 在于瞬间传递了最有价值的信息。不要因为 CV 中有的内容就不在 PS 中反复强调。罗列经验和讲故事的 PS 不会在委员会留下丝毫印象，除非你的其他条件十分优秀，能够保证在多轮筛选中存留下来，那就可以在这里讲情怀，说故事。
 
 ### PS 的内容和结构 ###
 
-我们遵循官方网站的
+**内容上我们遵循官方的指引**
+
 A sample of topics that you might address in your statement is below:
 
 - Academic plans and research interests
@@ -72,6 +81,38 @@ A sample of topics that you might address in your statement is below:
 We recommend that you complete the essay in another program (i.e. Word, Google docs, etc) and copy it in the text box below. (1200 word maximum.)
 
 :100: 以上内容源自 UCLA 网申系统
+
+**结构上有瞬间达最有价值的信息**
+
+I recently become very excited about research, it all happened when I joined X group at the X, in the summer of X. I worked on two projects in the short months I was there and engineered X on submitting these two projects for the prestigious ACM XXX conference (a top-tier conference in X). I was really inspired by my stay at X, by the opportunities I had, by the people I met, by how my English skills advanced. It all brought back memories of how I started to be fascinated by X and really made me want to pursue a PhD. In order to be ready for it, I decided to pursue a Master’s in computer science, with a focus on working with strong X faculty, such is the case of X this is my first choice in Master’s programs and I am really excited about it. 
+
+> 开门见山秀肌肉（研究、论文），回答 Academic plans 问题
+
+How I started to be interested in X: XXX
+
+> 阐述学术背景，回答 research interests 问题
+  
+In the same year, we sign up to the X. X is the top-tier venue for X and their X are a big thing! This X requires X. First, X. Then, X. and won the X award. .
+
+> 第一段竞赛经历，回答 Relevant experience 问题
+ 
+After taking part in the X , I decided to continue my education in the US. My advisor suggested that I apply for a research intern position at an US-based institution. That’s how I ended up applying for an internship to do research with the X at X. In the X lab, I X than ever possible before. Professor X recognized my contribution in this project and invited me to join an additional project. 
+
+> 第二段科研经历，回答 Relevant experience 问题
+
+In this second project, which I realized by myself , I created X! 
+
+> 第三段科研经历，回答 Relevant experience 问题
+
+I realized that it's not just people like Steve Jobs who can redefine the world as inventors, researchers really have a say in it! Going forward, I want to make my own path, enjoying the research process and never forgetting my childhood dream.
+
+> 转折，回答 Future career goals 问题
+ 
+Looking forward to my career, I know that I should not do what others tell me to do, but instead find the answers for myself. I would like to follow X research direction, I want to X. To accomplish this, I chose to apply for graduate school at X. In this program, I know that I will not only learn more deeply about emerging technologies, but also have the opportunity to do research at X Lab. I think that with the guidance of Professor X, I can have a prominent academic performance in my future career. I also love the research atmosphere in X Lab, the feeling of being a part of them is incomparable.
+
+> 重复展示优点， 回答 Why X would be a good intellectual fit for you 问题。
+
+:100: 此 Statement of Purpose 由录取委员会教授成员修改（重写）。
 
 ### 如何撰写 PS ###
 
