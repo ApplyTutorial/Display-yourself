@@ -144,6 +144,8 @@ Looking forward to my career, I know that I should not do what others tell me to
 
 # Personal History Statement #
 
+个人历史称述是一个多数人不愿意写又不得不写的材料，由于硕士申请量巨大，大部分硕士项目是不会审核 PHS 内容的。
+
 This essay will assist both the admissions committee and fellowship review committees to evaluate your background and motivation for graduate study. In your personal history statement please describe how your personal background informs your decision to pursue a graduate degree. A sample of topics that you might address in your statement is below.
 
 ## PHS 的内容和结构 ##
