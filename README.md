@@ -82,8 +82,6 @@ A sample of topics that you might address in your statement is below:
 
 We recommend that you complete the essay in another program (i.e. Word, Google docs, etc) and copy it in the text box below. (1200 word maximum.)
 
-:100: 以上内容源自 UCLA 网申系统
-
 
 **结构上传达最有价值的信息**
 
@@ -117,6 +115,7 @@ Looking forward to my career, I know that I should not do what others tell me to
 
 :100: 此 Statement of Purpose 由录取委员会教授成员修改（重写）。
 
+
 ### 如何撰写 PS ###
 
 1. 撰写中文 PS 草稿
@@ -126,9 +125,12 @@ Looking forward to my career, I know that I should not do what others tell me to
 5. 寻求导师、社群前辈的建议和修改
 6. 迭代执行上述1.2.3.4.5.步骤
 
-## Personal Academic Website ##
 
-### 如何建站 ###
+
+# Personal Academic Website #
+## 网站的作用 ##
+
+## 如何建站 ##
 
 **使用免费的 Wordpress 建站**
 
@@ -140,11 +142,11 @@ Looking forward to my career, I know that I should not do what others tell me to
 
 **托管在 GitHub 上**
 
-## Personal History Statement ##
+# Personal History Statement #
 
 This essay will assist both the admissions committee and fellowship review committees to evaluate your background and motivation for graduate study. In your personal history statement please describe how your personal background informs your decision to pursue a graduate degree. A sample of topics that you might address in your statement is below.
 
-### PHS 的内容和结构 ###
+## PHS 的内容和结构 ##
 
 - Any educational, familial, cultural, economic or social experiences or opportunities relevant to your academic journey
 - Challenges and/or obligations you have had to address in order to achieve your educational goals and how you addressed them
@@ -155,7 +157,7 @@ The Personal History Statement is expected to focus on your personal background 
 
 We recommend that you complete the essay in another program (i.e. Word, Google docs, etc) and copy it in the text box below. (1200 word maximum.)
 
-### 如何撰写 PHS ###
+## 如何撰写 PHS ##
 
 1. 撰写中文 PS 草稿
 2. 寻求社群前辈的建议和修改
