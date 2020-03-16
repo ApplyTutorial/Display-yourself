@@ -112,3 +112,6 @@ We recommend that you complete the essay in another program (i.e. Word, Google d
 
 > PHS 通常来说是发放奖学金的重要依据，大多数情况下硕士项目的奖学金主要发给美国公民，所以 PHS 对于中国的申请者功效不多。
 
+In general, Ph.D. applicants are given preference over Master's applicants in consideration for financial support. Please contact your department for information regarding financial support. The information below will be used by your department if you are admitted, and considered for financial support.
+
+:100: 以上内容源自 UCLA 网申系统
