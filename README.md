@@ -61,15 +61,17 @@ CV 和 PS 的修改甚至可以由教授帮忙。
 
 Applicants for our graduate programs are selected using a holistic evaluation system. This essay will assist both the admissions committee and fellowship review committees to  evaluate your preparation for the proposed field of study. In your statement of purpose, please describe your aptitude and motivation for graduate study in your area of specialization.
 
-热门的学校和专业，仅来自中国的申请就有可能近千份，所以录取委员会的教授没有时间仔细去看所有的 PS/Resume 。基本是快速扫描一下，留下比较强的一小部分人来考虑是否录取。一封
+热门的学校和专业，仅来自中国的申请就有可能近千份，所以录取委员会的教授没有时间仔细去看所有的 PS/Resume 。基本是快速扫描一下，留下比较强的一小部分人来考虑是否录取。
 
-## 反复突出自己的长板 ##
+**反复突出自己的长板**
 
 > 一封好的 PS 在于瞬间传递了最有价值的信息。不要因为 CV 中有的内容就不在 PS 中反复强调。罗列经验和讲故事的 PS 不会在委员会留下丝毫印象，除非你的其他条件十分优秀，能够保证在多轮筛选中存留下来，那就可以在这里讲情怀，说故事。
 
+
 ### PS 的内容和结构 ###
 
-**内容上我们遵循官方的指引**
+
+**内容上遵循官方的指引**
 
 A sample of topics that you might address in your statement is below:
 
@@ -82,7 +84,8 @@ We recommend that you complete the essay in another program (i.e. Word, Google d
 
 :100: 以上内容源自 UCLA 网申系统
 
-**结构上有瞬间达最有价值的信息**
+
+**结构上传达最有价值的信息**
 
 I recently become very excited about research, it all happened when I joined X group at the X, in the summer of X. I worked on two projects in the short months I was there and engineered X on submitting these two projects for the prestigious ACM XXX conference (a top-tier conference in X). I was really inspired by my stay at X, by the opportunities I had, by the people I met, by how my English skills advanced. It all brought back memories of how I started to be fascinated by X and really made me want to pursue a PhD. In order to be ready for it, I decided to pursue a Master’s in computer science, with a focus on working with strong X faculty, such is the case of X this is my first choice in Master’s programs and I am really excited about it. 
 
