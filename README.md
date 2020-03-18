@@ -10,10 +10,15 @@ CV 是对一个学者学术生涯的高度概括，其目的在于：
 - 研究结论是否具有学术意义和学术价值。
 
 ### CV 的作用 ###
-- 在暑研
-  - 通过图片和成功吊到教授之后，详细介绍
-- 在套磁
-- 在申请过程中
+
+- 在暑研/套磁中
+  - 系统了解申请者的学术背景，科研经历、成长经历。
+  - 通过邮件或网站成功引起教授兴趣之后，用**细节**阐述申请者学术能力。
+  - 申请者的研究兴趣和方向是否与实验室匹配。
+
+- 在网申过程中
+  - 系统了解申请者的学术背景，科研经历、成长经历。
+  - 评判申请者的研究能力，用**细节**阐述申请者学术能力。
 
 ### 如何撰写自己的 CV ###
 
@@ -113,7 +118,7 @@ Looking forward to my career, I know that I should not do what others tell me to
 
 > 重复展示优点， 回答 Why X would be a good intellectual fit for you 问题。
 
-:100: 此 Statement of Purpose 由录取委员会教授成员修改（重写）。
+:100: 此 Statement of Purpose 由一所 Top 10 大学录取委员会教授成员修改（重写）。
 
 
 ### 如何撰写 PS ###
@@ -124,7 +129,6 @@ Looking forward to my career, I know that I should not do what others tell me to
 4. 寻求 Native Speaker 语言润色
 5. 寻求导师、社群前辈的建议和修改
 6. 迭代执行上述1.2.3.4.5.步骤
-
 
 
 # Personal Academic Website #
