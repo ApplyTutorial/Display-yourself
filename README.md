@@ -144,7 +144,35 @@ Looking forward to my career, I know that I should not do what others tell me to
 
 
 # Personal Academic Website #
-## 网站的作用 ##
+
+部分教授会要求申请者构建自己的学术网站，其作用为：
+
+- 图文并茂，比 CV 更快速传达申请者的研究经历。
+- 易于携带，随时把握套磁机会。
+- 让申请者表现的更加像一个学者。
+
+> 如果申请者打算在学界继续深造，学术网站则是必要条件。
+
+## 网站的内容 ##
+
+- 个人信息
+- 个人陈述
+  - 研究经历
+  - 未来研究兴趣
+- 其他资料
+  - 个人简历 CV
+  - 个人传记 Bio
+- 项目列表
+  - 项目图片
+  - 项目介绍
+    - 背景和现状
+    - 方法和技巧
+    - 结果与结论
+
+
+**Tips**
+
+> 最好的网站模板，就是你申请实验室教授的网站模板。
 
 ## 如何建站 ##
 
@@ -157,6 +185,8 @@ Looking forward to my career, I know that I should not do what others tell me to
   - [科学上网 ShadowSocks](https://github.com/zhaoweih/Shadowsocks-Tutorial)
 
 **托管在 GitHub 上**
+
+- 教程
 
 # Personal History Statement #
 
