@@ -39,12 +39,6 @@ CV 和 PS 的修改甚至可以由教授帮忙。
   - GPA 成绩 / 专业 GPA 成绩（择优）
   - 部分专业课成绩（择优）
   - 语言成绩
-> 
-EDUCATION		
-School of Environment, X University                                         Aug 2008- Jul 2012(Expected)
-B.E. in Environmental Engineering, Overall GPA: 3.85/4.0, Major GPA: 3.91/4.0
-Core Courses:
-
   
 - **研究经历**
   - 综述 + 成果（收录/获奖） 
@@ -67,6 +61,8 @@ Core Courses:
  - **课外活动与领导力**
    - 取得的成果
    - 负责的工作
+   
+> Pdf Sample 本页上方可下载
 
 **Tips**： 
 1. 申请的 CV 通常是一页或两页，一页半的 CV 不合通用规范。
